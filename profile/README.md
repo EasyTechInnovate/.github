@@ -5,7 +5,7 @@ _"Crafting digital future seamlessly."_
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_ORG/YOUR_REPO/main/logo.png" alt="EasyTechInnovate Logo" width="150" />
+  <img src="https://github.com/EasyTechInnovate/.github/blob/main/logo.jpeg" alt="EasyTechInnovate Logo" width="150" />
 </div>
 
 ---
